@@ -1,0 +1,9 @@
+anonymous
+denis.george@free.fr
+bin
+passive
+hash
+lcd release
+cd /incoming
+put jptraining_v0.8.tar.bz2
+quit
