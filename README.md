@@ -18,7 +18,6 @@ Original jpt: denis.george@free.fr
 
 # License
 
-Original had OSL 3.0 and so does this repository.
 The source code is licensed under OSL 3.0 found in LICENSE.txt
 
 # TODO
