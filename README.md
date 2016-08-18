@@ -2,7 +2,7 @@
 
 The nds homebrew remade for the 3DS.
 
-The original source for jpt can be found on the nds-src orphan branch of this repository.
+The original source for jpt can be found on the nds-src orphan branch of this repository the latest from sourceforge.
 
 # Building
 
