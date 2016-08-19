@@ -2,7 +2,7 @@
 
 The nds homebrew remade for the 3DS.
 
-The original source for jpt can be found on the nds-src orphan branch of this repository the latest from sourceforge.
+The original source for jpt can be found on the nds-src orphan branch of this repository which was downloaded from the latest release on [sourceforge](https://sourceforge.net/projects/jptraining/?source=directory).
 
 # Building
 
